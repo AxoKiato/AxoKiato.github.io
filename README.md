@@ -1,1 +1,2 @@
 random pkmn gen
+beans
